@@ -1,5 +1,5 @@
 #include <Wire.h>
-#include <math.h> 
+//#include <math.h> 
 /////////////////////// Ver libreria Adafuit_sensors
 #define SENSORS_GAUSS_TO_MICROTESLA   100 /**< Gauss to micro-Tesla multiplier */
 #define SENSORS_GRAVITY_EARTH         9.80665F /**< Earth's gravity in m/s^2 */
